@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Арт-галерея</string>
+
+    <string name="button_previous">Предыдущий</string>
+    <string name="button_next">Следующий</string>
+    <string name="button_previous_description">Показать предыдущее фото</string>
+    <string name="button_next_description">Показать следующее фото</string>
+
+    <!-- %1$s — автор, %2$d — год -->
+    <string name="artwork_author_year">%1$s (%2$d)</string>
+    <!-- %1$d — номер текущего экспоната, %2$d — всего экспонатов -->
+    <string name="artwork_counter">%1$d из %2$d</string>
+
+    <string name="author_nagovitsyn">Вячеслав Наговицын</string>
+
+    <string name="artwork_school_title">Школа № 81, Ижевск</string>
+    <string name="artwork_school_description">Трёхэтажное кирпичное здание школы № 81 зимой, на стене табличка «Союзная улица, 149»</string>
+
+    <string name="artwork_roof_view_title">Вид с крыши школы</string>
+    <string name="artwork_roof_view_description">Заснеженная крыша школы, внизу двор с машинами и многоэтажные дома</string>
+
+    <string name="artwork_looking_down_title">С крыши вниз</string>
+    <string name="artwork_looking_down_description">Вид вниз с края крыши на заснеженный двор, берёзу и ограду</string>
+</resources>

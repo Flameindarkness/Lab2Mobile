@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Подпись к экспонату: название, автор и год, номер в коллекции -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/artwork_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/title_text"
+        android:textSize="@dimen/title_text_size"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/artwork_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_small"
+        android:gravity="center"
+        android:textColor="@color/secondary_text"
+        android:textSize="@dimen/author_text_size" />
+
+    <TextView
+        android:id="@+id/artwork_counter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_small"
+        android:textColor="@color/accent"
+        android:textSize="@dimen/counter_text_size" />
+</LinearLayout>
