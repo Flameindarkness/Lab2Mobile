@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+    <string name="button_previous_description">Show previous photo</string>
+    <string name="button_next_description">Show next photo</string>
+
+    <!-- %1$s — автор, %2$d — год -->
+    <string name="artwork_author_year">%1$s (%2$d)</string>
+    <!-- %1$d — номер текущего экспоната, %2$d — всего экспонатов -->
+    <string name="artwork_counter">%1$d of %2$d</string>
+
+    <string name="author_nagovitsyn">Vyacheslav Nagovitsyn</string>
+
+    <string name="artwork_school_title">School No. 81, Izhevsk</string>
+    <string name="artwork_school_description">Three-storey brick building of School No. 81 in winter, with a sign reading Soyuznaya Street 149 on the wall</string>
+
+    <string name="artwork_roof_view_title">View from the school roof</string>
+    <string name="artwork_roof_view_description">Snow-covered school roof with a view of the courtyard, parked cars and high-rise buildings</string>
+
+    <string name="artwork_looking_down_title">Looking down from the roof</string>
+    <string name="artwork_looking_down_description">View straight down from the roof edge onto a snowy yard, a birch tree and a fence</string>
+</resources>
